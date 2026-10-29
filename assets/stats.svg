@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="212" viewBox="0 0 880 212" role="img" aria-label="ayanpandey — stats">
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace; }
+  .ink { fill: #f1e7da; } .muted { fill: #a89bb4; } .dim { fill: #6b6178; }
+  .violet { fill: #c0a3e6; } .pink { fill: #f08f84; } .gold { fill: #e0b45a; } .mint { fill: #7fcbb0; }
+  
+</style>
+<rect x="0.5" y="0.5" width="879" height="211" rx="14" fill="#1b1726" stroke="#3d3349"/>
+<circle cx="24" cy="22" r="6" fill="#f08f84"/><circle cx="44" cy="22" r="6" fill="#e0b45a"/><circle cx="64" cy="22" r="6" fill="#7fcbb0"/>
+<text x="440.0" y="27" text-anchor="middle" font-size="12" class="dim">ayanpandey — stats</text>
+<line x1="0" y1="44" x2="880" y2="44" stroke="#3d3349"/>
+<text x="32" y="76" font-size="15"><tspan class="pink">❯ </tspan><tspan class="ink">./stats --refresh daily</tspan></text>
+<rect x="32.0" y="96" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349"/>
+<text x="108" y="134" text-anchor="middle" font-size="26" font-weight="700" class="mint">1</text>
+<text x="108" y="158" text-anchor="middle" font-size="11" class="muted">day streak</text>
+<rect x="198.0" y="96" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349"/>
+<text x="274" y="134" text-anchor="middle" font-size="26" font-weight="700" class="violet">1</text>
+<text x="274" y="158" text-anchor="middle" font-size="11" class="muted">longest streak</text>
+<rect x="364.0" y="96" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349"/>
+<text x="440" y="134" text-anchor="middle" font-size="26" font-weight="700" class="gold">3</text>
+<text x="440" y="158" text-anchor="middle" font-size="11" class="muted">active days / yr</text>
+<rect x="530.0" y="96" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349"/>
+<text x="606" y="134" text-anchor="middle" font-size="26" font-weight="700" class="pink">1</text>
+<text x="606" y="158" text-anchor="middle" font-size="11" class="muted">OSS PRs merged</text>
+<rect x="696.0" y="96" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349"/>
+<text x="772" y="134" text-anchor="middle" font-size="26" font-weight="700" class="violet">100%</text>
+<text x="772" y="158" text-anchor="middle" font-size="11" class="muted">merge rate</text>
+<text x="848" y="198" text-anchor="end" font-size="10" class="dim">updated 2026-10-30 · github actions</text>
+</svg>

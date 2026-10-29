@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="344" viewBox="0 0 880 344" role="img" aria-label="ayan@northstarz: ~ — zsh">
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace; }
+  .ink { fill: #f1e7da; } .muted { fill: #a89bb4; } .dim { fill: #6b6178; }
+  .violet { fill: #c0a3e6; } .pink { fill: #f08f84; } .gold { fill: #e0b45a; } .mint { fill: #7fcbb0; }
+  
+</style>
+<rect x="0.5" y="0.5" width="879" height="343" rx="14" fill="#1b1726" stroke="#3d3349"/>
+<circle cx="24" cy="22" r="6" fill="#f08f84"/><circle cx="44" cy="22" r="6" fill="#e0b45a"/><circle cx="64" cy="22" r="6" fill="#7fcbb0"/>
+<text x="440.0" y="27" text-anchor="middle" font-size="12" class="dim">ayan@northstarz: ~ — zsh</text>
+<line x1="0" y1="44" x2="880" y2="44" stroke="#3d3349"/>
+<clipPath id="l0"><rect x="32" y="67" width="0" height="24.0">
+  <animate attributeName="width" from="0" to="77" begin="0.4s" dur="0.44s" calcMode="discrete" values="0;10;19;29;39;48;58;68;77" fill="freeze"/>
+</rect></clipPath>
+<text x="32" y="82" font-size="15" xml:space="preserve" clip-path="url(#l0)"><tspan class="pink">❯ </tspan><tspan class="ink">whoami</tspan></text>
+<text x="32" y="111" font-size="15" xml:space="preserve" opacity="0"><tspan class="violet">Ayan</tspan><tspan class="ink"> · AI Engineer @ </tspan><tspan class="gold">Northstarz</tspan><tspan class="muted"> · Bangalore, India</tspan>
+  <animate attributeName="opacity" from="0" to="1" begin="1.19s" dur="0.15s" fill="freeze"/></text>
+<clipPath id="l2"><rect x="32" y="125" width="0" height="24.0">
+  <animate attributeName="width" from="0" to="141" begin="1.81s" dur="0.825s" calcMode="discrete" values="0;9;19;28;38;47;56;66;75;85;94;104;113;122;132;141" fill="freeze"/>
+</rect></clipPath>
+<text x="32" y="140" font-size="15" xml:space="preserve" clip-path="url(#l2)"><tspan class="pink">❯ </tspan><tspan class="ink">cat focus.txt</tspan></text>
+<text x="32" y="169" font-size="15" xml:space="preserve" opacity="0"><tspan class="mint">▸ </tspan><tspan class="ink">multi-agent assistants    </tspan><tspan class="mint">▸ </tspan><tspan class="ink">hybrid search + RAG</tspan>
+  <animate attributeName="opacity" from="0" to="1" begin="2.985s" dur="0.15s" fill="freeze"/></text>
+<text x="32" y="198" font-size="15" xml:space="preserve" opacity="0"><tspan class="mint">▸ </tspan><tspan class="ink">real-time voice AI        </tspan><tspan class="mint">▸ </tspan><tspan class="ink">LLM evaluation</tspan>
+  <animate attributeName="opacity" from="0" to="1" begin="3.105s" dur="0.15s" fill="freeze"/></text>
+<clipPath id="l5"><rect x="32" y="212" width="0" height="24.0">
+  <animate attributeName="width" from="0" to="150" begin="3.725s" dur="0.88s" calcMode="discrete" values="0;9;19;28;38;47;56;66;75;85;94;103;113;122;132;141;150" fill="freeze"/>
+</rect></clipPath>
+<text x="32" y="227" font-size="15" xml:space="preserve" clip-path="url(#l5)"><tspan class="pink">❯ </tspan><tspan class="ink">./status --now</tspan></text>
+<text x="32" y="256" font-size="15" xml:space="preserve" opacity="0"><tspan class="mint">● </tspan><tspan class="ink">shipping recruiting agents in Go + Python</tspan>
+  <animate attributeName="opacity" from="0" to="1" begin="4.955s" dur="0.15s" fill="freeze"/></text>
+<text x="32" y="285" font-size="15" xml:space="preserve" opacity="0"><tspan class="gold">● </tspan><tspan class="ink">open to AI engineering roles + consulting</tspan>
+  <animate attributeName="opacity" from="0" to="1" begin="5.075s" dur="0.15s" fill="freeze"/></text>
+<text x="32" y="314" font-size="15" opacity="0"><tspan class="pink">❯ </tspan><tspan class="violet">▍</tspan>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.5;0.51" begin="5.695s" dur="1s" repeatCount="indefinite"/></text><g transform="translate(705 160) scale(2.2)">
+  <path d="M46 52 C64 50 70 34 62 24" fill="none" stroke="#120e18" stroke-width="5" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" values="0 46 52;9 46 52;0 46 52;-4 46 52;0 46 52" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <ellipse cx="32" cy="57" rx="19" ry="7" fill="#120e18"/>
+  <path d="M12 30 L10 6 L28 20 Z M52 30 L54 6 L36 20 Z" fill="#120e18"/>
+  <path d="M14 26 L13 12 L23 20 Z M50 26 L51 12 L41 20 Z" fill="#f08f84" opacity="0.55"/>
+  <ellipse cx="32" cy="36" rx="22" ry="19" fill="#120e18"/>
+  <g>
+    <ellipse cx="23" cy="33" rx="7" ry="7" fill="#fff"><animate attributeName="ry" values="7;7;0.6;7;7" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="41" cy="33" rx="7" ry="7" fill="#fff"><animate attributeName="ry" values="7;7;0.6;7;7" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/></ellipse>
+    <g>
+      <circle cx="23" cy="34" r="4.2" fill="#2a1733"/><circle cx="41" cy="34" r="4.2" fill="#2a1733"/>
+      <circle cx="21.6" cy="32.4" r="1.3" fill="#fff"/><circle cx="39.6" cy="32.4" r="1.3" fill="#fff"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-2.4 0.6;-2.4 0.6;0.8 0;0 0" keyTimes="0;0.2;0.6;0.8;1" dur="7s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <path d="M29.5 43 L34.5 43 L32 46 Z" fill="#f08f84"/>
+  <path d="M8 40 L18 41 M8 45 L18 44 M56 40 L46 41 M56 45 L46 44" stroke="#3d3349" stroke-width="1.2" stroke-linecap="round"/>
+</g>
+<text x="775" y="324" text-anchor="middle" font-size="11" class="dim">void · head of QA</text>
+</svg>

@@ -1,4 +1,4 @@
-name: Update open-source section
+name: Refresh profile cards
 on:
   schedule:
     - cron: "17 3 * * *"
@@ -6,16 +6,17 @@ on:
 permissions:
   contents: write
 jobs:
-  update:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 scripts/update_oss.py
+      - run: python3 scripts/render.py && python3 scripts/update_oss.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
-          git diff --quiet && exit 0
+          git add -A assets README.md
+          git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update open-source contributions"
+          git commit -m "Refresh profile cards"
           git push

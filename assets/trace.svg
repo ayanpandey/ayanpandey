@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="400" viewBox="0 0 880 400" role="img" aria-label="northstarz / recruiter-agent — trace">
+<style>
+  text { font-family: 'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace; }
+  .ink { fill: #f1e7da; } .muted { fill: #a89bb4; } .dim { fill: #6b6178; }
+  .violet { fill: #c0a3e6; } .pink { fill: #f08f84; } .gold { fill: #e0b45a; } .mint { fill: #7fcbb0; }
+  
+</style>
+<rect x="0.5" y="0.5" width="879" height="399" rx="14" fill="#1b1726" stroke="#3d3349"/>
+<circle cx="24" cy="22" r="6" fill="#f08f84"/><circle cx="44" cy="22" r="6" fill="#e0b45a"/><circle cx="64" cy="22" r="6" fill="#7fcbb0"/>
+<text x="440.0" y="27" text-anchor="middle" font-size="12" class="dim">northstarz / recruiter-agent — trace</text>
+<line x1="0" y1="44" x2="880" y2="44" stroke="#3d3349"/>
+<text x="32" y="76" font-size="15"><tspan class="pink">❯ </tspan><tspan class="ink">trace recruiter-agent --live</tspan></text>
+<text x="848" y="76" font-size="12" text-anchor="end" class="mint">● live
+  <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></text>
+<rect x="290" y="98" width="300" height="52" rx="10" fill="#221c2f" stroke="#c0a3e6"/>
+<text x="440" y="121" text-anchor="middle" font-size="15" class="violet" font-weight="700">orchestrator</text>
+<text x="440" y="140" text-anchor="middle" font-size="11" class="muted">Go · Google ADK · multi-agent</text>
+<path d="M440 150 C440 172 108.0 170 108.0 196" fill="none" stroke="#3d3349" stroke-dasharray="3 4"/>
+<rect x="32.0" y="196" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349">
+  <animate attributeName="stroke" values="#3d3349;#f08f84;#3d3349;#3d3349" keyTimes="0;0.06;0.22;1" begin="0.00s" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text x="108.0" y="220" text-anchor="middle" font-size="14" class="ink" font-weight="700">sourcing</text>
+<text x="108.0" y="242" text-anchor="middle" font-size="11" class="gold">3,800 profiles/run</text>
+<text x="108.0" y="260" text-anchor="middle" font-size="10.5" class="muted">LinkedIn + pool</text>
+<path d="M440 150 C440 172 274.0 170 274.0 196" fill="none" stroke="#3d3349" stroke-dasharray="3 4"/>
+<rect x="198.0" y="196" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349">
+  <animate attributeName="stroke" values="#3d3349;#f08f84;#3d3349;#3d3349" keyTimes="0;0.06;0.22;1" begin="0.75s" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text x="274.0" y="220" text-anchor="middle" font-size="14" class="ink" font-weight="700">screening</text>
+<text x="274.0" y="242" text-anchor="middle" font-size="11" class="gold">0 errs · 70 gates</text>
+<text x="274.0" y="260" text-anchor="middle" font-size="10.5" class="muted">2-stage LLM scoring</text>
+<path d="M440 150 C440 172 440.0 170 440.0 196" fill="none" stroke="#3d3349" stroke-dasharray="3 4"/>
+<rect x="364.0" y="196" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349">
+  <animate attributeName="stroke" values="#3d3349;#f08f84;#3d3349;#3d3349" keyTimes="0;0.06;0.22;1" begin="1.50s" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text x="440.0" y="220" text-anchor="middle" font-size="14" class="ink" font-weight="700">ranking</text>
+<text x="440.0" y="242" text-anchor="middle" font-size="11" class="gold">BM25+dense · RRF</text>
+<text x="440.0" y="260" text-anchor="middle" font-size="10.5" class="muted">ColBERT v2 re-rank</text>
+<path d="M440 150 C440 172 606.0 170 606.0 196" fill="none" stroke="#3d3349" stroke-dasharray="3 4"/>
+<rect x="530.0" y="196" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349">
+  <animate attributeName="stroke" values="#3d3349;#f08f84;#3d3349;#3d3349" keyTimes="0;0.06;0.22;1" begin="2.25s" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text x="606.0" y="220" text-anchor="middle" font-size="14" class="ink" font-weight="700">interview</text>
+<text x="606.0" y="242" text-anchor="middle" font-size="11" class="gold">~150 / month</text>
+<text x="606.0" y="260" text-anchor="middle" font-size="10.5" class="muted">voice · EN·HI·KN</text>
+<path d="M440 150 C440 172 772.0 170 772.0 196" fill="none" stroke="#3d3349" stroke-dasharray="3 4"/>
+<rect x="696.0" y="196" width="152" height="78" rx="10" fill="#221c2f" stroke="#3d3349">
+  <animate attributeName="stroke" values="#3d3349;#f08f84;#3d3349;#3d3349" keyTimes="0;0.06;0.22;1" begin="3.00s" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text x="772.0" y="220" text-anchor="middle" font-size="14" class="ink" font-weight="700">outreach</text>
+<text x="772.0" y="242" text-anchor="middle" font-size="11" class="gold">Gemini Live</text>
+<text x="772.0" y="260" text-anchor="middle" font-size="10.5" class="muted">Twilio · WhatsApp</text>
+<line x1="108.0" y1="294" x2="772.0" y2="294" stroke="#3d3349"/>
+<line x1="108.0" y1="274" x2="108.0" y2="294" stroke="#3d3349"/>
+<line x1="274.0" y1="274" x2="274.0" y2="294" stroke="#3d3349"/>
+<line x1="440.0" y1="274" x2="440.0" y2="294" stroke="#3d3349"/>
+<line x1="606.0" y1="274" x2="606.0" y2="294" stroke="#3d3349"/>
+<line x1="772.0" y1="274" x2="772.0" y2="294" stroke="#3d3349"/>
+<circle r="4" fill="#c0a3e6">
+  <animateMotion dur="3s" begin="0.0s" repeatCount="indefinite" path="M108.0 294 L772.0 294"/></circle>
+<circle r="4" fill="#f08f84">
+  <animateMotion dur="3s" begin="0.75s" repeatCount="indefinite" path="M108.0 294 L772.0 294"/></circle>
+<circle r="4" fill="#c0a3e6">
+  <animateMotion dur="3s" begin="1.5s" repeatCount="indefinite" path="M108.0 294 L772.0 294"/></circle>
+<circle r="4" fill="#f08f84">
+  <animateMotion dur="3s" begin="2.25s" repeatCount="indefinite" path="M108.0 294 L772.0 294"/></circle>
+<text x="32" y="342" font-size="22" class="violet" font-weight="700">30+</text>
+<text x="32" y="360" font-size="11" class="muted">companies served</text>
+<text x="244" y="342" font-size="22" class="violet" font-weight="700">600+</text>
+<text x="244" y="360" font-size="11" class="muted">positions closed</text>
+<text x="456" y="342" font-size="22" class="violet" font-weight="700">300%</text>
+<text x="456" y="360" font-size="11" class="muted">revenue growth · 3 mo</text>
+<text x="668" y="342" font-size="22" class="violet" font-weight="700">−98%</text>
+<text x="668" y="360" font-size="11" class="muted">cost / match · $0.24→$0.005</text>
+<text x="848" y="386" text-anchor="end" font-size="10.5" class="dim">eval harness: 200-query live suite · 100% pass · gates every change</text>
+</svg>
