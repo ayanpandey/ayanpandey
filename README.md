@@ -54,7 +54,7 @@
 </div>
 
 <!-- OSS:START -->
-_First merged contributions coming soon._
+- [fix(core): give a Concierge chat created before any login its model later](https://github.com/rome-os/rome/pull/1734) in **rome-os/rome** ★891
 <!-- OSS:END -->
 
 <div align="center">
