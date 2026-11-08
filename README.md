@@ -55,7 +55,7 @@
 
 <!-- OSS:START -->
 - [fix(sharing): Keep the parent when trimming a revisions tree past MaxDepth](https://github.com/linagora/cozy-stack/pull/5177) in **linagora/cozy-stack** ★1,268
-- [fix(core): give a Concierge chat created before any login its model later](https://github.com/rome-os/rome/pull/1734) in **rome-os/rome** ★893
+- [fix(core): give a Concierge chat created before any login its model later](https://github.com/rome-os/rome/pull/1734) in **rome-os/rome** ★894
 <!-- OSS:END -->
 
 <div align="center">
