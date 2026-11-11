@@ -11,7 +11,7 @@
 
 <h3><code>❯ trace recruiter-agent --live</code></h3>
 
-<img src="assets/trace.svg" width="100%" alt="Animated trace of the Northstarz recruiting agent: an orchestrator in Go and Google ADK drives sourcing (3,800 profiles per run), screening (0 errors on a 70-decision gate), ranking (BM25 plus dense with RRF, ColBERT v2 re-rank), interviews (~150 a month in English, Hindi and Kannada) and outreach (Gemini Live over Twilio). 30+ companies, 600+ positions closed, 300% revenue growth in 3 months, 98% lower cost per match." />
+<img src="assets/trace.svg" width="100%" alt="Animated trace of the Northstarz recruiting agent: an orchestrator in Go and Google ADK drives sourcing (3,800 profiles per run), screening (0 errors on a 70-decision gate), ranking (BM25 plus dense with RRF, ColBERT v2 re-rank), interviews (~150 a month in English, Hindi and Kannada) and outreach (Gemini Live over Twilio). 35+ companies, 230+ positions closed, 440% revenue growth in 3 months, 98% lower cost per match." />
 
 </div>
 
@@ -19,7 +19,7 @@
 <summary><b>the long version</b>: what I build at Northstarz</summary>
 <br />
 
-- **Multi-agent recruiting assistant**: Go + Google ADK (migrated from LangChain). It handles sourcing, screening, outreach, evaluation and scheduling, and has helped 30+ companies close 600+ positions.
+- **Multi-agent recruiting assistant**: Go + Google ADK (migrated from LangChain). It handles sourcing, screening, outreach, evaluation and scheduling, and has helped 35+ companies close 230+ positions.
 - **Candidate search**: Gemini embeddings in Qdrant, hybrid dense + BM25 with Reciprocal Rank Fusion, ColBERT v2 re-ranking and LLM scoring. A 200-query live eval suite gates every change.
 - **Voice AI**: a Gemini Live calling agent over Twilio, a WebSocket AI interviewer in English, Hindi and Kannada, and a WebRTC interview room with Go signalling and a self-hosted TURN server.
 - **AnthroSense**: 13 BiLSTM trait models trained in PyTorch and served from Go via ONNX, at zero per-call LLM cost.

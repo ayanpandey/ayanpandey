@@ -64,11 +64,11 @@
   <animateMotion dur="3s" begin="1.5s" repeatCount="indefinite" path="M108.0 294 L772.0 294"/></circle>
 <circle r="4" fill="#f08f84">
   <animateMotion dur="3s" begin="2.25s" repeatCount="indefinite" path="M108.0 294 L772.0 294"/></circle>
-<text x="32" y="342" font-size="22" class="violet" font-weight="700">30+</text>
+<text x="32" y="342" font-size="22" class="violet" font-weight="700">35+</text>
 <text x="32" y="360" font-size="11" class="muted">companies served</text>
-<text x="244" y="342" font-size="22" class="violet" font-weight="700">600+</text>
+<text x="244" y="342" font-size="22" class="violet" font-weight="700">230+</text>
 <text x="244" y="360" font-size="11" class="muted">positions closed</text>
-<text x="456" y="342" font-size="22" class="violet" font-weight="700">300%</text>
+<text x="456" y="342" font-size="22" class="violet" font-weight="700">440%</text>
 <text x="456" y="360" font-size="11" class="muted">revenue growth · 3 mo</text>
 <text x="668" y="342" font-size="22" class="violet" font-weight="700">−98%</text>
 <text x="668" y="360" font-size="11" class="muted">cost / match · $0.24→$0.005</text>

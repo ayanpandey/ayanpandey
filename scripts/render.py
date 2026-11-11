@@ -150,7 +150,7 @@ def trace():
     for k in range(4):
         parts.append(f"""<circle r="4" fill="{PINK if k % 2 else VIOLET}">
   <animateMotion dur="3s" begin="{k*0.75}s" repeatCount="indefinite" path="M{centers[0]} {lane} L{centers[-1]} {lane}"/></circle>""")
-    stats = [("30+", "companies served"), ("600+", "positions closed"), ("300%", "revenue growth · 3 mo"), ("−98%", "cost / match · $0.24→$0.005")]
+    stats = [("35+", "companies served"), ("230+", "positions closed"), ("440%", "revenue growth · 3 mo"), ("−98%", "cost / match · $0.24→$0.005")]
     sx = 32
     for i, (num, label) in enumerate(stats):
         x = sx + i * 212
