@@ -54,9 +54,10 @@
 </div>
 
 <!-- OSS:START -->
-- [fix(web): pause a toast's timeout while it is hovered or focused](https://github.com/agent-of-empires/agent-of-empires/pull/5530) in **agent-of-empires/agent-of-empires** ★4,590
+- [fix: Classify shared drive guard routes by pattern](https://github.com/linagora/cozy-stack/pull/5199) in **linagora/cozy-stack** ★1,267
+- [fix(web): pause a toast's timeout while it is hovered or focused](https://github.com/agent-of-empires/agent-of-empires/pull/5530) in **agent-of-empires/agent-of-empires** ★4,591
 - [fix(sharing): Keep the parent when trimming a revisions tree past MaxDepth](https://github.com/linagora/cozy-stack/pull/5177) in **linagora/cozy-stack** ★1,267
-- [fix(core): give a Concierge chat created before any login its model later](https://github.com/rome-os/rome/pull/1734) in **rome-os/rome** ★908
+- [fix(core): give a Concierge chat created before any login its model later](https://github.com/rome-os/rome/pull/1734) in **rome-os/rome** ★916
 <!-- OSS:END -->
 
 <div align="center">
